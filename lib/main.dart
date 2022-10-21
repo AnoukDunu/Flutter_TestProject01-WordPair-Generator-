@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:english_words/english_words.dart';
 
-// void main() {
-//   runApp(MyApp());
-// }
+//WHY IS GIT NOT WORKING
 
 void main() => runApp(MyApp());
 
